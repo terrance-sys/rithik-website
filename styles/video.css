@@ -1,0 +1,30 @@
+.thumbnail{
+    width:100%;
+ }
+.channel{
+    display:block;
+}
+.ps1{ 
+   margin-top:0;
+   font-weight: bold;
+}
+.video-info-grid{
+  display:grid;
+  grid-template-columns: 50px 1fr; 
+}
+.profile{
+ margin-right: 10px;
+}
+.p-picture{
+ width:100%;
+ border-radius:30px;
+}
+.thumb{
+ margin-bottom: 12px;
+}
+.video-grid{
+ display:grid;
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap:15px;
+ row-gap: 40px;
+}        
